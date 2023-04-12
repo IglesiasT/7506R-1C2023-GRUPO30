@@ -13,4 +13,3 @@ Los datos fueron facilitados por la cátedra para que los alumnos pudieran traba
 ### Integrantes
 - [Tomás Iglesias](https://github.com/IglesiasT)
 - [Valentín González](https://github.com/ValenGonzalez03)
-- [Leonardo Cruz](https://github.com/leofiuba)
